@@ -17,3 +17,6 @@ Visit the main article [here](https://katecpp.wordpress.com/2015/08/28/sqlite-wi
 
 Updated October 29, 2016
 * Added a function to create tables, which will also automatically create a new database if it doesn't already exist.
+
+Updated April 23, 2018
+* Added CMakeLists.txt to support the CMake build system
